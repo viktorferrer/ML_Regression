@@ -1,6 +1,6 @@
 # ML_Regression
 
-## A study about the usage of the both Regression algorythms of Machine Learning:
+A study about the usage of the both Regression algorythms of Machine Learning:
  
  
  - Simple Linear Regression
