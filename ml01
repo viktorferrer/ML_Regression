@@ -1,0 +1,45 @@
+Machine Learning
+
+Modelo supervisionado -> carregamos o modelo com informação, para que possa fazer uma predição a partir do passado. "Ensinamos" o modelo
+
+Index label -> atributos
+colunas -> features
+
+Dados podem ser númericos ou categoricos, feitos para Classificação.
+
+Dois tipos de modelo supervisionado 
+	1. Classificação
+		Processo que preve determinada categoria
+	2. Regressão
+		Processo que preve um valor contínuo
+
+Modelo não supervisionado -> deixamos o modelo trabalhar por si a fim de perceber informações talvez nao visíveis para nós.
+
+Técnicas
+	Dimension Reduction -> reduz features redundante faciliand a classificação
+	Market Basket analysis -> baseado na teoria de que se compra um grupo de itens, estará propenso a compraar outro grupo de itens
+	Density estimation -> conceito que explora os dados afim de encontrar alguma estrutura nele.
+	Clustering -> agrupa pontos ou objetos que são similares de alguma forma.
+		usado para descoberta de estrutura (segmentar clientes baseado em X e Y), sumarização e detecção de anomalai
+
+
+-- Regressão (Single Linear and Multiple Linear)
+Usado para para prevê valores continuos
+Possui douas variaveis -> indepentente (X) e dependente (X)
+
+a dependente é nosso "target", "state" ou "final goal" a qual tentaremos prever, e a independente são as exploratórias, vistas como a "causa" dos "estados"
+
+o ponto da regressão éqo valor dependente deve ser continuo e nao discreto.
+
+Tipos de modelo de regressão
+	Simples: quando uma var independente é usada pra estimar uma dependente.
+		Simples linear	
+			Baseada na naturalidade do relacionamento entre as variaveis
+		Simples  nao linear
+	Multipla regressao:>
+		quando mais de uma variavel independente está presente
+
+
+
+
+
